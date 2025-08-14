@@ -1,6 +1,8 @@
-Requirements:
+# Requirements:
+
 For this assignment:
-* create a folder ch-01_values_types_and operatores
+
+* create a folder ch-01_values_types_and_operatores
 * Each question should be saved in a separate file
 * The name of the file is at the bottom of each question
 
